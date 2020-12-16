@@ -1,0 +1,41 @@
+body {
+    background-color: aqua;
+    font-family: 'Goldman', cursive;
+    background: #fceabb;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f8b500, #fceabb);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f8b500, #fceabb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+main {
+    text-align: center;
+}
+
+section {
+    margin-bottom: 6vh;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+input {
+    display: block;
+    margin: auto;
+}
+
+button {
+    background-color: blue;
+    text-decoration: darkorange;
+}
+
+button:hover {
+    background-color: darkcyan;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+    color: green;
+}
